@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Purpose of Repository
 
-Things you may want to cover:
+This project is an exercise in full rails app. Including testing. I am using a recreation of Twitter to have a side by side comaparion for general functionality.
 
-* Ruby version
+NOTE: None of the code in this repository was taken from Twitter, nor does this project have any connection or affiliation with twitter.
 
-* System dependencies
+##General Specifications
 
-* Configuration
+Ruby version: 2.3.3
 
-* Database creation
+Rails version: 5.2.0
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+##Other Notes
 
-* Deployment instructions
-
-* ...
+As the project progresses, I will update hte readme with more information. 
